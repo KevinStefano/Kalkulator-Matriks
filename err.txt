@@ -1,0 +1,2 @@
+Exception in thread "main" java.lang.IllegalAccessError: class MenuUtama tried to access method matriks.InputUserAug(Lmatriks;)V (MenuUtama is in unnamed module of loader com.sun.tools.javac.launcher.Main$MemoryClassLoader @66ea810; matriks is in unnamed module of loader 'app')
+	at MenuUtama.main(MenuUtama.java:91)

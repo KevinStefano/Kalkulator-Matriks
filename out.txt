@@ -1,0 +1,15 @@
+MENU
+1. Sistem Persamaan Linier
+2. Determinan
+3. Matriks balikan
+4. Matriks kofaktor
+5. Adjoin
+6. Interpolasi Polinom
+7. Keluar
+1. Metode eliminasi Gauss
+2. Metode eliminasi Gauss-Jordan
+3. Metode matriks balikan
+4. Kaidah Cramer
+5. Kembali ke menu sebelumnya
+1. Masukan dari file
+2. Masukan dari user

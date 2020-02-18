@@ -1,0 +1,1 @@
+(M.AdjointMatriks(M)).TulisMATRIKS();
